@@ -4,27 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e014743-e0e0-4a5a-940c-38b48c8f0a27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator-of-complex-numbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logger/CalculatorLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/AdditionOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/ComplexOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/DivisionOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/MultiplicationOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/OperationFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/SubtractionOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presenter/ComplexCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/presenter/ComplexCalculatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/CalculatorView.java" afterDir="false" />
+    <list default="true" id="2e014743-e0e0-4a5a-940c-38b48c8f0a27" name="Changes" comment="Выполнена Контрольная Домашная Работа (промежуточная аттестация)">
+      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +59,19 @@
       <option name="presentableId" value="Default" />
       <updated>1709062220415</updated>
     </task>
+    <task id="LOCAL-00001" summary="Выполнена Контрольная Домашная Работа (промежуточная аттестация)">
+      <option name="closed" value="true" />
+      <created>1709215627508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709215627508</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Выполнена Контрольная Домашная Работа (промежуточная аттестация)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнена Контрольная Домашная Работа (промежуточная аттестация)" />
   </component>
 </project>
